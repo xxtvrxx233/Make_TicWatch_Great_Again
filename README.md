@@ -6,15 +6,15 @@ This project contains several Magisk modules for optimizing TicWatch devices run
 Completes the missing Google Sans fonts in TicWatch devices running Wear OS 3.5,to improve the display effect of some system applications
 
 ## Mobvoi Pravicy simplified Chinese translation
-No introduction.
+Just like name
 
 ## Wear OS 3.5 Chinese Language Pack/Chinese translation Revision
 
--Settings App translation revision
+- Settings App translation revision
 
--TicSysUi Chinese langpack
+- TicSysUi Chinese langpack
 
--TicSystem Chinese langpack
+- TicSystem Chinese langpack
 
 ## Usage
 You need to install [Kitsune Mask ](https://github.com/HuskyDG/magisk-files/releases)27.0+ to load these modules.
